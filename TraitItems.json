@@ -1,0 +1,17 @@
+{
+  "Extraversion": {
+    "items": ["B01", "B06", "B11", "B16"]
+  },
+  "Agreeableness": {
+    "items": ["B02", "B07", "B12", "B17"]
+  },
+  "Conscientiousness": {
+    "items": ["B03", "B08", "B13", "B18"]
+  },
+  "EmotionalStability": {
+    "items": ["B04", "B09", "B14", "B19"]
+  },
+  "Intellect": {
+    "items": ["B05", "B10", "B15", "B20"]
+  }
+}
